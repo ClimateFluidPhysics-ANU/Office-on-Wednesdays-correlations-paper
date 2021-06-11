@@ -16,3 +16,9 @@ Here we will be gathering data for in-office attendance both for Wednesdays and 
 The hope is that we can proceed doing proper statistical analyses and significance tests on the
 data to determine whether or not this effect is *real* and also whether it is part of natural
 variability.
+
+## Disclaimer
+
+This is by no means an attempt to put pressure on @AndyHoggANU to change his Wednesday routine. 
+The only purpose of this repo is to pursue a systematic study to understand whether or not
+the observation is part of natural in-office attendance variability or not.
