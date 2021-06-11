@@ -7,8 +7,8 @@ cause-and-effect"
 
 ## Claim - Motivation
 
-@navidcy has been claiming for long that because Andy does not come in at the office on
-Wednesdays the CFP in-present attendance at the office is dramatically reduced. @AndyHoggANU
+[@navidcy](https://github.com/navidcy) has been claiming for long that because Andy does not come in at the office on
+Wednesdays the CFP in-present attendance at the office is dramatically reduced. [@AndyHoggANU](https://github.com/AndyHoggANU)
 claims that this is just natural variability.
 
 ## Purpose of repo
